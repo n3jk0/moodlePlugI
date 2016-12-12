@@ -1,0 +1,4 @@
+Janez Novak (631200123) | 1 1 0 0 0 | sum:2/5 | 0 | sum_private: 0/1
+Jože Hočevar (631400532) | 1 1 0 1 1 | sum:4/5 | 1 | sum_private: 1/1
+Nejc Kozlevčar () | 1 1 0 1 1 | sum:4/5 | 1 | sum_private: 1/1
+teacher teacher () | 1 1 0 1 1 | sum:4/5 | 1 | sum_private: 1/1

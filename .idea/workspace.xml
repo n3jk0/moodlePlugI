@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/tester.php" />
+    <bookmark url="file://$PROJECT_DIR$/mod/assign/gradingtable.php" line="113" mnemonic="5" />
+    <bookmark url="file://$PROJECT_DIR$/mod/assign/tester_form.php" line="52" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/mod/assign/custom_grade_form.php" line="78" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/mod/assign/custom_grade_form.php" line="95" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/mod/assign/tester_form.php" line="83" mnemonic="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a94da048-93f8-4660-bc3c-dfbce2da3052" name="Default" comment="" />
+    <ignored path="moodle.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="moodle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="locallib.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod/assign/locallib.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64668">
+              <caret line="3817" column="5" selection-start-line="3817" selection-start-column="5" selection-end-line="3817" selection-end-column="5" />
+              <folding>
+                <marker date="1473005376673" expanded="true" signature="59063:59731" ph="SELECT COUNT... " />
+                <marker date="1473005376673" expanded="true" signature="60292:60466" ph="SELECT COUNT... " />
+                <marker date="1473005376673" expanded="true" signature="61241:61522" ph="SELECT COUNT... " />
+                <marker date="1473005376673" expanded="true" signature="62022:62309" ph="SELECT COUNT... " />
+                <marker date="1473005376673" expanded="true" signature="63877:64290" ph="SELECT COUNT... " />
+                <marker date="1473005376673" expanded="true" signature="64370:64756" ph="SELECT COUNT... " />
+                <marker date="1473005376673" expanded="true" signature="67090:68019" ph="SELECT g.id " />
+                <marker date="1473005376673" expanded="true" signature="73687:73937" ph="SELECT id FR... " />
+                <marker date="1473005376673" expanded="true" signature="215943:216124" ph="SELECT s.use... " />
+                <marker date="1473005376673" expanded="true" signature="216144:216746" ph="SELECT u.id " />
+                <marker date="1473005376673" expanded="true" signature="292103:293068" ph="SELECT u.id " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="source_code.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/amd/src/source_code.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod/assign/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modedit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/modedit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4148">
+              <caret line="257" column="0" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delete_file.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod/assign/delete_file.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload_form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod/assign/upload_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="54" column="77" selection-start-line="54" selection-start-column="77" selection-end-line="54" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_upload_form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod/assign/admin_upload_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1683">
+              <caret line="99" column="47" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
+              <folding>
+                <marker date="1472208426632" expanded="true" signature="4212:4222" ph="..." />
+                <marker date="1472208426632" expanded="true" signature="4616:4626" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tester_form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod/assign/tester_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="31" column="75" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="75" />
+              <folding>
+                <marker date="1472208426423" expanded="true" signature="4347:4360" ph="..." />
+                <marker date="1472208426423" expanded="true" signature="4362:4401" ph="..." />
+                <marker date="1472208426423" expanded="true" signature="5059:5072" ph="..." />
+                <marker date="1472208426423" expanded="true" signature="5074:5117" ph="..." />
+                <marker date="1472208426423" expanded="true" signature="5676:5690" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_grade_form.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mod/assign/custom_grade_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+              <folding>
+                <marker date="1472418906000" expanded="true" signature="725:986" ph="SELECT u.* F... mdl_user" />
+                <marker date="1472418906000" expanded="true" signature="2340:2344" ph="..." />
+                <marker date="1472418906000" expanded="true" signature="2452:2456" ph="..." />
+                <marker date="1472418906000" expanded="true" signature="2569:2573" ph="..." />
+                <marker date="1472418906000" expanded="true" signature="2684:2688" ph="..." />
+                <marker date="1472418906000" expanded="true" signature="5828:5863" ph="..." />
+                <marker date="1472418906000" expanded="true" signature="5828:5871" ph="..." />
+                <marker date="1472418906000" expanded="true" signature="6170:6174" ph="..." />
+                <marker date="1472418906000" expanded="true" signature="6292:6296" ph="..." />
+                <marker date="1472418906000" expanded="true" signature="6384:6388" ph="..." />
+                <marker date="1472418906000" expanded="true" signature="6468:6472" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod/assign/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mod/assign/custompage.php" />
+        <option value="$PROJECT_DIR$/lib/outputrenderers.php" />
+        <option value="$PROJECT_DIR$/tester.css" />
+        <option value="$PROJECT_DIR$/resitev.txt" />
+        <option value="$PROJECT_DIR$/test1.txt" />
+        <option value="$PROJECT_DIR$/Test.java" />
+        <option value="$PROJECT_DIR$/lib/filelib.php" />
+        <option value="$PROJECT_DIR$/mod/assign/amd/src/source_code.js" />
+        <option value="$PROJECT_DIR$/mod/assign/tester.css" />
+        <option value="$PROJECT_DIR$/mod/assign/select_file_form.php" />
+        <option value="$PROJECT_DIR$/mod/assign/tester_output_form.php" />
+        <option value="$PROJECT_DIR$/mod/assign/tester_ajax.php" />
+        <option value="$PROJECT_DIR$/local/solution.txt" />
+        <option value="$PROJECT_DIR$/upload.php" />
+        <option value="$PROJECT_DIR$/admin_upload.php" />
+        <option value="$PROJECT_DIR$/local/Naloga1.java" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/lib/setup.php" />
+        <option value="$PROJECT_DIR$/my/index.php" />
+        <option value="$PROJECT_DIR$/my/test123.php" />
+        <option value="$PROJECT_DIR$/lib/classes/string_manager_standard.php" />
+        <option value="$PROJECT_DIR$/mod/assign/submission_form.php" />
+        <option value="$PROJECT_DIR$/mod/assign/local/course_3/test/TestA.in.txt" />
+        <option value="$PROJECT_DIR$/mod/assign/local/course_3/test/TestB.in.txt" />
+        <option value="$PROJECT_DIR$/mod/assign/local/course_3/test/TestC.in.txt" />
+        <option value="$PROJECT_DIR$/mod/assign/local/course_3/test/TestD.in.txt" />
+        <option value="$PROJECT_DIR$/mod/assign/local/course_3/user_3/Naloga1.java" />
+        <option value="$PROJECT_DIR$/mod/assign/mod_form.php" />
+        <option value="$PROJECT_DIR$/lib/dml/mysqli_native_moodle_database.php" />
+        <option value="$PROJECT_DIR$/mod/assign/submission/comments/locallib.php" />
+        <option value="$PROJECT_DIR$/mod/assign/gradeform.php" />
+        <option value="$PROJECT_DIR$/grade/report/custom_grade_form.php" />
+        <option value="$PROJECT_DIR$/tester.php" />
+        <option value="$PROJECT_DIR$/mod/assign/local/Dockerfile" />
+        <option value="$PROJECT_DIR$/mod/assign/tester_form.php" />
+        <option value="$PROJECT_DIR$/mod/assign/admin_upload_form.php" />
+        <option value="$PROJECT_DIR$/mod/assign/upload_form.php" />
+        <option value="$PROJECT_DIR$/mod/assign/view.php" />
+        <option value="$PROJECT_DIR$/mod/assign/custom_grade_form.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/mod/assign/renderer.php" />
+        <option value="$PROJECT_DIR$/course/modedit.php" />
+        <option value="$PROJECT_DIR$/mod/assign/Dockerfile" />
+        <option value="$PROJECT_DIR$/mod/assign/delete_file.php" />
+        <option value="$PROJECT_DIR$/mod/assign/locallib.php" />
+        <option value="$PROJECT_DIR$/lib/amd/src/source_code.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" notify_if_session_was_finished_without_being_paused="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="f1526eb5-d37c-4dcf-bb3d-f04702c82725" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP_WAMP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moodle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moodle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moodle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mod/assign" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="SearchEverywhereHistoryKey" value="js_inline&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\moodle\mod\assign\local\course_3" />
+      <recent name="C:\wamp64\www\moodle\mod\assign\local\course_2" />
+      <recent name="C:\wamp64\www\moodle\mod\assign" />
+      <recent name="C:\wamp64\www\moodle" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\moodle\mod\assign\" />
+      <recent name="C:\wamp64\www\moodle\mod\assign" />
+      <recent name="C:\wamp64\www\moodle\lib\amd\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.help.php">
+    <configuration default="false" name="help.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/moodle/help.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.help.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.help.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a94da048-93f8-4660-bc3c-dfbce2da3052" name="Default" comment="" />
+      <created>1466266481196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1466266481196</updated>
+      <workItem from="1466266487129" duration="49000" />
+      <workItem from="1466266889880" duration="4858000" />
+      <workItem from="1466283208995" duration="113000" />
+      <workItem from="1467044209479" duration="1054000" />
+      <workItem from="1467129252778" duration="13519000" />
+      <workItem from="1467735683096" duration="5650000" />
+      <workItem from="1468255608314" duration="908000" />
+      <workItem from="1468263726900" duration="7230000" />
+      <workItem from="1468428550372" duration="5286000" />
+      <workItem from="1468952407042" duration="725000" />
+      <workItem from="1469030508600" duration="216000" />
+      <workItem from="1469034519103" duration="3532000" />
+      <workItem from="1469121628995" duration="5903000" />
+      <workItem from="1469465905829" duration="1728000" />
+      <workItem from="1469550886235" duration="11758000" />
+      <workItem from="1469642837622" duration="595000" />
+      <workItem from="1470071381503" duration="7192000" />
+      <workItem from="1470157026548" duration="3379000" />
+      <workItem from="1470238844201" duration="6033000" />
+      <workItem from="1470252235780" duration="6031000" />
+      <workItem from="1470323146510" duration="7314000" />
+      <workItem from="1470485261803" duration="9338000" />
+      <workItem from="1470820703714" duration="1966000" />
+      <workItem from="1471088434500" duration="11123000" />
+      <workItem from="1471121563372" duration="7734000" />
+      <workItem from="1471172752848" duration="17807000" />
+      <workItem from="1471260373929" duration="18585000" />
+      <workItem from="1471291660441" duration="2711000" />
+      <workItem from="1471295566052" duration="2594000" />
+      <workItem from="1471351974226" duration="7961000" />
+      <workItem from="1471436606348" duration="12559000" />
+      <workItem from="1471523894195" duration="7608000" />
+      <workItem from="1471814136073" duration="353000" />
+      <workItem from="1471816042594" duration="987000" />
+      <workItem from="1471955318064" duration="1320000" />
+      <workItem from="1471959578030" duration="10558000" />
+      <workItem from="1472046657924" duration="32299000" />
+      <workItem from="1472114336367" duration="2797000" />
+      <workItem from="1472131939869" duration="9261000" />
+      <workItem from="1472208016311" duration="1217000" />
+      <workItem from="1472250572616" duration="390000" />
+      <workItem from="1472418365879" duration="1477000" />
+      <workItem from="1472487979852" duration="13464000" />
+      <workItem from="1472994770005" duration="9075000" />
+      <workItem from="1473608120909" duration="5926000" />
+      <workItem from="1478459991512" duration="597000" />
+      <workItem from="1479748165996" duration="454000" />
+      <workItem from="1481571439001" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="283326000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12473348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3768116" sideWeight="0.5117271" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67697227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36120403" sideWeight="0.48827294" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18693693" sideWeight="0.49562362" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32218507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/pluginfile.php</url>
+          <line>29</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/file.php</url>
+          <line>38</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mod/assign/tester_ajax.php</url>
+          <line>12</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tester.php</url>
+          <line>42</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mod/assign/locallib.php</url>
+          <line>4579</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mod/assign/locallib.php</url>
+          <line>3402</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="282" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="modedit.php">
+        <watch expression="$_POST" language="PHP" />
+        <watch expression="$_POST['instance']" language="PHP" />
+        <watch expression="$data-&gt;instance" language="PHP" />
+      </configuration>
+      <configuration name="view.php">
+        <watch expression="$_FILES" language="PHP" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mod/assign/mod_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="103" column="33" selection-start-line="103" selection-start-column="33" selection-end-line="103" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/adminlib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49725">
+          <caret line="2938" column="20" selection-start-line="2938" selection-start-column="20" selection-end-line="2938" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="427" column="7" selection-start-line="427" selection-start-column="7" selection-end-line="427" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apps/phpmyadmin4.5.2/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/modlib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="452" column="11" selection-start-line="452" selection-start-column="11" selection-end-line="452" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="43" column="57" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-dist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="546" column="16" selection-start-line="546" selection-start-column="11" selection-end-line="546" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dml/moodle_database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="1701" column="0" selection-start-line="1701" selection-start-column="0" selection-end-line="1701" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dml/mysqli_native_moodle_database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="577" column="20" selection-start-line="577" selection-start-column="20" selection-end-line="577" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cohort/lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="507" column="45" selection-start-line="507" selection-start-column="45" selection-end-line="507" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apps/phpmyadmin4.5.2/sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apps/phpmyadmin4.5.2/js/get_image.js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apps/phpmyadmin4.5.2/js/whitelist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apps/phpmyadmin4.5.2/js/messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/outputrenderers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/renderable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="426" column="75" selection-start-line="426" selection-start-column="74" selection-end-line="426" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/tests/base_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="332" column="8" selection-start-line="332" selection-start-column="8" selection-end-line="332" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grade/report/grader/ajax_callbacks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/gradingbatchoperationsform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cohort/upload_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/datalib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="1852" column="9" selection-start-line="1852" selection-start-column="4" selection-end-line="1852" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/tests/behat/steps_blind_marking.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="85" column="25" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/lang/en/assign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="103" column="28" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grade/grading/lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="387" column="9" selection-start-line="387" selection-start-column="9" selection-end-line="387" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/availability/condition/grade/tests/behat/availability_grade.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="121" column="41" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tester.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="107" column="38" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
+          <folding>
+            <marker date="1472070146240" expanded="true" signature="2359:2373" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tests/formslib_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="859" column="40" selection-start-line="859" selection-start-column="40" selection-end-line="859" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grade/report/grader/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/gradingtable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="56" column="77" selection-start-line="56" selection-start-column="77" selection-end-line="56" selection-end-column="77" />
+          <folding>
+            <marker date="1458845906000" expanded="true" signature="7633:7868" ph="SELECT mxg.u... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/gradeform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apps/phpmyadmin4.5.2/phpmyadmin.css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apps/phpmyadmin4.5.2/js/get_scripts.js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/renderer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11458">
+          <caret line="687" column="0" selection-start-line="687" selection-start-column="0" selection-end-line="687" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apps/phpmyadmin4.5.2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/outputrequirementslib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="1022" column="15" selection-start-line="1022" selection-start-column="15" selection-end-line="1022" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/formslib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="123" column="15" selection-start-line="123" selection-start-column="15" selection-end-line="123" selection-end-column="15" />
+          <folding>
+            <marker date="1458845906000" expanded="true" signature="88163:89954" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="88251:88351" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="88375:89391" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="88471:88828" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="88863:88921" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="89102:89368" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="89397:89952" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="89492:89550" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="89650:89708" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="89781:89861" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="89897:89930" ph="{...}" />
+            <marker date="1458845906000" expanded="true" signature="108685:108699" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/submission/comments/locallib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/modedit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4148">
+          <caret line="257" column="0" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/amd/src/source_code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/delete_file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/locallib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64668">
+          <caret line="3817" column="5" selection-start-line="3817" selection-start-column="5" selection-end-line="3817" selection-end-column="5" />
+          <folding>
+            <marker date="1473005376673" expanded="true" signature="59063:59731" ph="SELECT COUNT... " />
+            <marker date="1473005376673" expanded="true" signature="60292:60466" ph="SELECT COUNT... " />
+            <marker date="1473005376673" expanded="true" signature="61241:61522" ph="SELECT COUNT... " />
+            <marker date="1473005376673" expanded="true" signature="62022:62309" ph="SELECT COUNT... " />
+            <marker date="1473005376673" expanded="true" signature="63877:64290" ph="SELECT COUNT... " />
+            <marker date="1473005376673" expanded="true" signature="64370:64756" ph="SELECT COUNT... " />
+            <marker date="1473005376673" expanded="true" signature="67090:68019" ph="SELECT g.id " />
+            <marker date="1473005376673" expanded="true" signature="73687:73937" ph="SELECT id FR... " />
+            <marker date="1473005376673" expanded="true" signature="215943:216124" ph="SELECT s.use... " />
+            <marker date="1473005376673" expanded="true" signature="216144:216746" ph="SELECT u.id " />
+            <marker date="1473005376673" expanded="true" signature="292103:293068" ph="SELECT u.id " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/upload_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="77" selection-start-line="54" selection-start-column="77" selection-end-line="54" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/admin_upload_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="47" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
+          <folding>
+            <marker date="1472208426632" expanded="true" signature="4212:4222" ph="..." />
+            <marker date="1472208426632" expanded="true" signature="4616:4626" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/tester_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="75" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="75" />
+          <folding>
+            <marker date="1472208426423" expanded="true" signature="4347:4360" ph="..." />
+            <marker date="1472208426423" expanded="true" signature="4362:4401" ph="..." />
+            <marker date="1472208426423" expanded="true" signature="5059:5072" ph="..." />
+            <marker date="1472208426423" expanded="true" signature="5074:5117" ph="..." />
+            <marker date="1472208426423" expanded="true" signature="5676:5690" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod/assign/custom_grade_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding>
+            <marker date="1472418906000" expanded="true" signature="725:986" ph="SELECT u.* F... mdl_user" />
+            <marker date="1472418906000" expanded="true" signature="2340:2344" ph="..." />
+            <marker date="1472418906000" expanded="true" signature="2452:2456" ph="..." />
+            <marker date="1472418906000" expanded="true" signature="2569:2573" ph="..." />
+            <marker date="1472418906000" expanded="true" signature="2684:2688" ph="..." />
+            <marker date="1472418906000" expanded="true" signature="5828:5863" ph="..." />
+            <marker date="1472418906000" expanded="true" signature="5828:5871" ph="..." />
+            <marker date="1472418906000" expanded="true" signature="6170:6174" ph="..." />
+            <marker date="1472418906000" expanded="true" signature="6292:6296" ph="..." />
+            <marker date="1472418906000" expanded="true" signature="6384:6388" ph="..." />
+            <marker date="1472418906000" expanded="true" signature="6468:6472" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
